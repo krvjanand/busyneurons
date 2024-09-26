@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "banded-anvil-426308-i1",
+  "private_key_id": "4f6e8da3480a20eae0a0c751a1a6f1eeccbcccfb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDliuA+aKnWXs1y\nnB8unDzddE0OiT9Sa0AG2S8FMXW0GAPJwoTG+hfuYdbH6GIPyk1CeXgwFZUDtu5a\nQfiL0idxAKwWSC6Digw/FhHT4g7QicQ6SD0yfth0Mv61ux8VqQcgpVE0X7ghc2rt\nntrSjv9jtO7xOW1fwivGswNaCCD8ki2GOl8FiP4I18czD+5muNcBLfAjQzdzC68l\noBMQoNJI2u38PlHKJObAAUzZ0MzXraH3wnIgsBvhYgxcJP7XLVOMpNtqvywivaxz\narvPd0Lt0I3978TkZ5eQ4lr4OKxfKn4BO8nPx8eaqNOpzvQB/5aQD5J0wNQWdNg5\n0Xm5mNx7AgMBAAECggEAAapZySoiPVNvwyqd0U1B5ctvubDGPFdZ3hLaU/vRYk6g\nTGj0ZKsw3EJqeAXYHEw39kkCVbr6W04K+a2r23vZXGkIVpsMd1jbkOOcmoBz4hB1\n04RtqT2hXWp3TaM/bP1Od26roakmIVwAhRvXc5qlALix2R81C3JRtf3bgt43Ow3i\n8I3ZaQv0qIFFytWfQTBBM6TvRVvhe4/VCNlqedIVzGWZFDqaSKMkGiLDhDUNKb3r\n7chtcJOylzXqSTnmRE3N/pbsVaM1XNoW0ALJ1lMPGCLFgjWxwRDQMuAyCe+3Ufci\nuV1vxWifJawsSMarq+9S7xZkuVsJ6Wgrb/liVt6C4QKBgQD7bCHfFkll7OgZPCs+\nW1tMCUhZ4gQMz7C0zdtpTO0c61xG5QhWtCtCFvgkkngQ4YSZDEwePr55GZs2TZrz\nYy7sMnPSonNyoXcVYU1O1JudaBnL9wGJxNftoyMkL6MoSZWHXZw8deMquDeIBws4\nf/BtmJDuLhK6HI2A+LCHElREoQKBgQDpuMMvgK7tu5p0kblM0K1IQ3dDuX4+DPpJ\nYxnSSOsY+a5P91k86IXDMu72w2gl3VllrioG5ErqtB9mzhpVo98EWOPRS+gfw8qs\njVmJdAyu1s/76b+uMl5CdTTlasTBXKwDBYWi+DwR0u0lcC5cKGvVBu51CJ/1qi3z\n2IJ+w+HvmwKBgQC8jWqVgIRJETM7AZm4qRC95FRDPDInXXa7EYsT3GIShxvr+wWW\n6IVsigdMfh/XIRmtIcDQCeQUs7RoNCkZkG93KZsdA0GrXRYOjatJjD6r/I8kHLkl\nld8N04OeNq+Ynh6qpvRtj0dvGTpkJEww8hngR0OhrCHVO2aPq3HPyloyIQKBgQCM\nr2vGN0aU0X1qt6D7rQzxV7L9sDVecn9iF2Yen0fss7aKahBsSmbiFdGj9gHF8RRz\n0T95AIhb+OqB/oP5kveWbU9M1800+a0Q6tC/nXxY7fMp5w07dRQqGtUpV3hyEC92\nbid/7r5x2C5pf7pYPPiTtWVqSzPGM5cPlf8PASgKCwKBgQCyw+CYvw1Mi43x8cTr\nsB4eORQFodeWAWPp99lolV3PwWbqNvHRLZZ9C/ONN0LvYZmphkrBqf1mZcgiXe9c\naR9GK+MlFOk+YC5EX3A9nithSmzyeYm4eV7fTDYqawJu0riM2whsVepYhdAwlnnW\nNVewaBLIKlRG+aeiJNFRRfSACw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eazyenroll-vertexai-user@banded-anvil-426308-i1.iam.gserviceaccount.com",
+  "client_id": "102738209799554697959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eazyenroll-vertexai-user%40banded-anvil-426308-i1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
