@@ -1,0 +1,365 @@
+{
+	"Requisition_Timestamp": "",
+	"Form_Number": "",
+	"Bill_To": [
+		{
+			"Bill_To_MSP": ""
+		},
+		{
+			"Bill_To_ICBC": ""
+		},
+		{
+			"Bill_To_WorkSafeBC": ""
+		},
+		{
+			"Bill_To_Patient": ""
+		},
+		{
+			"Bill_To_Other": ""
+		}
+	],
+	"Date_of_Collection": "",
+	"Time_of_Collection": "",
+	"Collector_Name": "",
+	"Telephone_Request_Received_By": "",
+	"Instructions_to_Patients": "",
+	"Patient_Information": 
+	{
+		"Personal_Health_Number": "",
+		"Id_Number": "",
+		"ICBC_WorkSafeBC_Number": "",
+		"Patient_Surname": "",
+		"Patient_FirstName": "",
+		"Patient_MiddleInitial": "",
+		"Patient_Date_of_Birth": "",
+		"Gender": "",
+		"Address": "",
+		"City": "",
+		"Province": "",
+		"Postal_Code": "",
+		"Patient_Phone": "",
+		"Chart_Number": "",
+		"Room_Number": "",
+		"Hematology": [
+			{
+				"Hematology_profile": ""
+			},
+			{
+				"On_Anticoagulant": ""
+			},
+			{
+				"INR": ""
+			},
+			{
+				"Ferritin": ""
+			},
+			{
+				"HFE_Hemochromatosis_Confirm Diagnosis": ""
+			},
+			{
+				"HFE_Hemochromatosis_Sibling_Parent_DNAtesting": ""
+			}
+		],
+		"Urine_Test": [
+			{
+				"Macroscopic_microscopic_if_dipstick_pos": ""
+			},
+			{
+				"Macroscopic_microscopic_urine_culture": ""
+			},
+			{
+				"Macroscopic_dipstick": ""
+			},
+			{
+				"Microscopic": ""
+			},
+			{
+				"Clinical_information_microscopic": ""
+			}
+		],
+		"Chemistry": [
+			{
+				"Glucose_Fasting": ""
+			},
+			{
+				"Glucose_Random": ""
+			},
+			{
+				"GTT_gestational_diabetes_screen": ""
+			},
+			{
+				"GTT_gestational_diabetes_confirm": ""
+			},
+			{
+				"GTT_non_gestational_diabetes": ""
+			},
+			{
+				"Hemoglobin_A1C": ""
+			},
+			{
+				"Albumin_Creatinine_Ratio": ""
+			}
+		],
+		"Thyroid_Function": [
+			{
+				"Monitor_Thyroid_Replacement_Therapy": ""
+			},
+			{
+				"Suspected_": ""
+			},
+			{
+				"GTT_gestational_diabetes_screen": ""
+			},
+			{
+				"GTT_gestational_diabetes_confirm": ""
+			},
+			{
+				"GTT_non_gestational_diabetes": ""
+			},
+			{
+				"Hemoglobin_A1C": ""
+			},
+			{
+				"Albumin_Creatinine_Ratio": ""
+			}
+		],
+		"Lipid_Function": [
+			{
+				"Full_Lipid_Profile": ""
+			},
+			{
+				"Followup_Lipid_Profile": ""
+			},
+			{
+				"ApoB": ""
+			}
+		],
+		"Microbiology_Routine_Culture": [
+			{
+				"On_Antibiotics": ""
+			},
+			{
+				"On_Antibiotics_specify": ""
+			},
+			{
+				"Throat_Culture": ""
+			},
+			{
+				"Sputum": ""
+			},
+			{
+				"Blood": ""
+			},
+			{
+				"Urine": ""
+			},
+			{
+				"Superficial_Wound_Site": ""
+			},
+			{
+				"Deep_Wound_Site": ""
+			},
+			{
+				"Other_Culture": ""
+			}
+		],
+		"Microbiology_Vaginitis": [
+			{
+				"Initial": ""
+			},
+			{
+				"Chronic": ""
+			},
+			{
+				"Trichromonas": ""
+			}
+		],
+		"Microbiology_GroupB_Strep_Screen": [
+			{
+				"Vagino_anorectal_swab": ""
+			},
+			{
+				"Penicillin_allergy": ""
+			}
+		],
+		"Chlamydia_Gonorrhea": [
+			{
+				"source_urethra": ""
+			},
+			{
+				"source_cervix": ""
+			},
+			{
+				"source_urine": ""
+			},
+			{
+				"source_vagina": ""
+			},
+			{
+				"source_throat": ""
+			},
+			{
+				"source_rectum": ""
+			},
+			{
+				"source_other": ""
+			}
+		],
+		"Gonorrhea_Culture": [
+			{
+				"source_cervix": ""
+			},
+			{
+				"source_urethra": ""
+			},
+			{
+				"source_throat": ""
+			},
+			{
+				"source_rectum": ""
+			},
+			{
+				"source_other": ""
+			}
+		],
+		"Stool_Specimens": [
+			{
+				"history_of_bloody_stools": ""
+			},
+			{
+				"cdiffile_testing": ""
+			},
+			{
+				"stool_culture": ""
+			},
+			{
+				"stool_ova_parasite_exam": ""
+			},
+			{
+				"stool_ova_parasite_highrisk_submit2samp": ""
+			}
+		],
+		"Dermatophytes": [
+			{
+				"dermatophyte_culture": ""
+			},
+			{
+				"koh_prep": ""
+			},
+			{
+				"specimen_skin": ""
+			},
+			{
+				"specimen_nail": ""
+			},
+			{
+				"specimen_hair": ""
+			},
+			{
+				"specimen_site": ""
+			}
+		],
+		"Mycology": [
+			{
+				"yeast": ""
+			},
+			{
+				"fungus": ""
+			},
+			{
+				"site": ""
+			}
+		],
+		"Hepatitis_Serology": [
+			{
+				"Acute_viral_hepatitis": ""
+			},
+			{
+				"Chronic_viral_hepatitis": ""
+			},
+			{
+				"investigation_hepatitis_immune_status_hepA": ""
+			},
+			{
+				"investigation_hepatitis_immune_status_hepB": ""
+			},
+			{
+				"Hepatitis_markers_hbsag": ""
+			},
+			{
+				"HIV_Serology": ""
+			},
+			{
+				"HIV_Serology_nonominal_reporting": ""
+			}
+			
+		],
+		"Other_Tests": [
+			{
+				"ECG": ""
+			},
+			{
+				"FIT_Age50to74": ""
+			},
+			{
+				"FIT_No_Copy_to_Colon": ""
+			}
+		],
+		"Other_Chemistry_Tests": [
+			{
+				"Sodium": ""
+			},
+			{
+				"Potassium": ""
+			},
+			{
+				"Albumin": ""
+			},
+			{
+				"ALT": ""
+			},
+			{
+				"B12": ""
+			},
+			{
+				"Bilirubin": ""
+			},
+			{
+				"GGT": ""
+			},
+			{
+				"TProtein": ""
+			},
+			{
+				"Creatinine_eGFR": ""
+			},
+			{
+				"Calcium": ""
+			},
+			{
+				"Creatinine_Kinase": ""
+			},
+			{
+				"PSA_Known_Suspected_ProstateCancer": ""
+			},
+			{
+				"PSA_Screening": ""
+			},
+			{
+				"Pregnancy_Test": ""
+			},
+			{
+				"bHCGQuantitative": ""
+			},
+		]
+	},
+	"Ordering_Physician_Information": {
+		"Physician_Name": "",
+		"Physician_Address": "",
+		"Physician_Province": "",
+		"Physician_PostalCode": "",
+		"Physician_MSP_Number": "",
+		"Physician_Signature": "",
+		"Physician_Signed_Date": ""
+	}
+}
